@@ -1,16 +1,5 @@
 # clima_app
 
-A new Flutter project.
+![Screenshot_20240725_235104 1](https://github.com/user-attachments/assets/e680301a-d7be-492c-b56b-2d03f3013573)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240725_235109 1](https://github.com/user-attachments/assets/a8e1537e-e808-4add-b38a-d98b6b09f2fc)
